@@ -1,0 +1,43 @@
+#name{
+    display:inline-block;
+    color:red;
+    text-align: top;
+}
+#but{
+    width:150px;
+    height:30px;
+}
+.table {
+    width:100%;
+
+    border: none;
+}
+#map {
+    height: 500px;
+    width: 50%;
+}
+table thead tr th {
+    text-align: center;
+}
+table tbody tr td {
+    padding-left: 15px;
+}
+input{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.csv {
+    width: 675px;
+    margin-left: -15px;
+}
+table{
+    width:400px;
+    border-collapse: collapse;
+    
+}
+tr:nth-child(even){
+    background-color: #b0b0b7;
+}
+#main{
+    visibility: hidden;
+}
